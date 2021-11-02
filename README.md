@@ -23,12 +23,10 @@ npm start
 4. Axios
 5. Ejs
 
-
 ```
 #### NPM modules used(You can check Package.Json as well)
 
 ```
-
 axios    
 body-parser
 dotenv
@@ -37,7 +35,6 @@ express
 mongoose 
 morgan   
 nodemon
-
 
 ```
 
